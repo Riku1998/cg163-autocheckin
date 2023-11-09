@@ -3,12 +3,14 @@
 
 由GamerNoTitle的项目[wyycg-autocheckin](https://github.com/GamerNoTitle/wyycg-autocheckin "wyycg-autocheckin")修改而来
 
+![](https://pic.imgdb.cn/item/654d13ccc458853aef000336.jpg)
+
 ## 目录
 
 - [使用方法](#使用方法)
 - [变量获取](#变量内容获取)
 - [Q&A](#qa)
-
+![](https://pic.imgdb.cn/item/654d0c37c458853aefe92883.jpg)
 ## 使用方法
 
 ### 变量添加
