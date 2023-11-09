@@ -5,7 +5,7 @@
 
 **推送效果**
 
-![](https://pic.imgdb.cn/item/654d1687c458853aef0769a8.jpg)
+![](https://pic.imgdb.cn/item/654d178cc458853aef09f905.jpg)
 
 ## 目录
 
