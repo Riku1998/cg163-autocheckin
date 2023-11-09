@@ -4,6 +4,7 @@
 由GamerNoTitle的项目[wyycg-autocheckin](https://github.com/GamerNoTitle/wyycg-autocheckin "wyycg-autocheckin")修改而来
 
 **推送效果**
+
 ![](https://pic.imgdb.cn/item/654d14c2c458853aef027d37.jpg)
 
 ## 目录
