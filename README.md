@@ -34,7 +34,7 @@
 
 **如果使用多用户，多个cookie请使用`#`分隔**
 
-![](https://pic.imgdb.cn/item/654d0f6fc458853aeff385ea.jpg)
+![](https://img-blog.csdnimg.cn/img_convert/8916bfbda33b93061206f2571665987d.png)
 
 ### PPKEY获取
 
